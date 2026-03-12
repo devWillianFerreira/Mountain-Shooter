@@ -1,3 +1,8 @@
+#C
+COLOR_ORANGE=(255,128,0)
+COLOR_YELLOW=(255,255,128)
+COLOR_WHITE= (255,255,255)
+
 #M
 MENU_OPTION = ("NEW GAME 1P",
                "NEW GAME 2P - COOPERATIVE",
@@ -6,10 +11,6 @@ MENU_OPTION = ("NEW GAME 1P",
                "EXIT",
 
                )
-
-#C
-COLOR_ORANGE=(255,128,0)
-COLOR_WHITE= (255,255,255)
 
 
 #W
